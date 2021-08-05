@@ -1,0 +1,2 @@
+.gallery{display:grid;grid-template-columns:1fr 1fr 1fr;list-style-type:none}.photo-card{text-align:center}.photo-card .stats-item{display:inline-block;font-size:16px;padding-right:10px}.photo-card .stats-item .material-icons{font-size:16px}#load-more{font-size:36px;padding:20px 50px;border-radius:10px;cursor:pointer;margin:100px auto;width:400px;display:block}.search-form{display:block;margin:auto;width:500px}.search-form input{font-size:26px;width:100%;margin:30px}
+/*# sourceMappingURL=/parcel-project-template/src.2161af2d.css.map */
