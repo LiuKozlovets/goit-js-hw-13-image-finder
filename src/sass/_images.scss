@@ -1,0 +1,43 @@
+.gallery {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  list-style-type: none;
+}
+
+.photo-card {
+  text-align: center;
+  .stats-item {
+    display: inline-block;
+    font-size: 16px;
+    padding-right: 10px;
+    .material-icons {
+      font-size: 16px;
+    }
+  }
+}
+
+#load-more {
+  margin: 30px;
+  font-size: 36px;
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: auto;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  width: 400px;
+  display: block;
+}
+
+.search-form {
+  display: block;
+  margin: auto;
+  width: 500px;
+  input {
+    font-size: 26px;
+    width: 100%;
+    margin: 30px;
+  }
+}
